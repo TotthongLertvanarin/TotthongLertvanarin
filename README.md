@@ -3,7 +3,7 @@ Hello, my name is Totthong Lertvanarin, TONY. In this introductory GitHub, I hav
 Due to my non-technical nature, I hereby hope this compendium of knowledge can assist anyone who is interested in customer analytics and is looking to get a foot in the door as my explanations will stem from a non-technical point of view. 
 I thus leave the coding to a more capable hand, while focusing on the 'why' the code is needed, rather than how it is executed. 
 
-Chapter 1 Customer Data Plateform & Customer Single View
+Chapter 1 Customer Data Platform & Customer Single View
 
 Chapter 2 Customer Lifetime Value
 
